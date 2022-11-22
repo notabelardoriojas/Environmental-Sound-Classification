@@ -3,4 +3,4 @@ Testing different spectrograms and augmentation methods on convolutional learnin
 Follow along with the notebook by reading the article on Medium!
 https://medium.com/@notabelardoriojas/environmental-sound-classification-investigating-different-spectrograms-and-audio-augmentation-95f6989d0ae5
 
-Thanks! 👨‍🎤
+Thanks! 👨‍🎤🔊
